@@ -3,3 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header{
+  background-color: lightgreen;
+}
+.c-sx{
+  background-color: pink;
+}
+.c-c{
+  background-color: coral;
+}
+.c-dx{
+  background-color: pink;
+}
+footer{
+  background-color: lightgreen;
+}
