@@ -3,19 +3,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+.f-l{
+  float: left;
+}
 
 header{
   background-color: lightgreen;
+  height: 300px;
 }
 .c-sx{
   background-color: pink;
+  height: 300px;
+  width: 20%;
 }
 .c-c{
   background-color: coral;
+  height: 280px;
+  width: 60%;
 }
 .c-dx{
-  background-color: pink;
+  background-color: yellow;
+  height: 700px;
+  width: 20%;
 }
 footer{
   background-color: lightgreen;
+  height: 100px;
 }
